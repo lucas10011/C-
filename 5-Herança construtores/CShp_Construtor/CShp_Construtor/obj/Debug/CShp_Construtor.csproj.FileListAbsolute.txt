@@ -1,0 +1,7 @@
+C:\_cshp_agosto_2018\CShp_Construtor\CShp_Construtor\bin\Debug\CShp_Construtor.exe.config
+C:\_cshp_agosto_2018\CShp_Construtor\CShp_Construtor\bin\Debug\CShp_Construtor.exe
+C:\_cshp_agosto_2018\CShp_Construtor\CShp_Construtor\bin\Debug\CShp_Construtor.pdb
+C:\_cshp_agosto_2018\CShp_Construtor\CShp_Construtor\obj\Debug\CShp_Construtor.csprojAssemblyReference.cache
+C:\_cshp_agosto_2018\CShp_Construtor\CShp_Construtor\obj\Debug\CShp_Construtor.csproj.CoreCompileInputs.cache
+C:\_cshp_agosto_2018\CShp_Construtor\CShp_Construtor\obj\Debug\CShp_Construtor.exe
+C:\_cshp_agosto_2018\CShp_Construtor\CShp_Construtor\obj\Debug\CShp_Construtor.pdb
