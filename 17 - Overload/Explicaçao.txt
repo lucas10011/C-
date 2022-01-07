@@ -1,0 +1,1 @@
+Permite ter múltiplas versões do mesmo método, mantendo o mesmo nome, variando os parâmetros. Sobrecarga neste caso será o overload, diferente de override, que indica o uso de polimorfismo. No polimorfismo classes descendentes sobrescrevem métodos abstratos / virtuais, deve haver herança. Na sobrecarga com overload podemos variar parâmetros pelo tipo e quantidade.

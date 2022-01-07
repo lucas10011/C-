@@ -1,0 +1,5 @@
+button1 = objeto que sofre evento
+Click = nome do evento, nada mais é que o ponteiro para um método, é um atributo só que ao inves de apontar  para um valor boleano ou uma string ele aponta para um método
++= operacao de include,incluo esse metodo como manipulador para esse evento click
+EventHandle = tipo do evento, que tipo é esse?, é o delegate
+this.button1_Click = Este é o nome do método que aponta para o evento chamadno event handler

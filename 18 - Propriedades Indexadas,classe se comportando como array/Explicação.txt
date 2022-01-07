@@ -1,0 +1,1 @@
+ O C# mapeia então esse valor para uma propriedade pré-definida (indexada). Muito semelhante ao que já existe por padrão para arrays / vetores, por exemplo, para recuperar um elemento usamos “vetor[1]”.

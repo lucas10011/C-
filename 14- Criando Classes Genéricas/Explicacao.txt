@@ -1,0 +1,7 @@
+Pilha<t>
+
+o t é o tipo de dados que vou trabalhar nessa classe, se for string, ela só vai recer dados do tipo string e etc ..
+
+
+
+permitem parametrizar código, sendo que o parâmetro não é um objeto, é um tipo (type). Permitem criar estruturas mais flexíveis e reutilizáveis. Reduz acoplamento entre classes. Reduz a necessidade do uso de interfaces ou classes abstratas. Reduz a necessidade do uso de tipos mais primitivos para efetuar operação sobre vários tipos (ex. Object). Maior performance, pois o tipo é resolvido estaticamente, não necessitando “type casts” dinâmicos.

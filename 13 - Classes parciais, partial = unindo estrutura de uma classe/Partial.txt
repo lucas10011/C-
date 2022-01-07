@@ -1,0 +1,1 @@
+Nesse tipo de estrutura, parte de código de uma classe pode estar em um “arquivo”, parte em outra (mas podem ser 2, 3, 4, n arquivos). Todas as classes têm o mesmo nome, então o compilador une em uma única estrutura. É ideal para projetistas (designers) e implementadores, separa responsabilidades e otimiza resultado compilado. Muito usado por designers de IDEs,

@@ -1,0 +1,1 @@
+ dar uma implementação diferente em classes descendentes, a partir de métodos abstratos (abstract) definidos em classes base (herança), ou ainda parcialmente abstratos (virtuais). Com essa técnica, deixaremos um framework de classes aberto para múltiplas implementações do mesmo método, sem variar a assinatura definida na classe base.
